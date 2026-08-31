@@ -1,0 +1,47 @@
+name: Update images.json from sitemap
+
+on:
+  # تشغيل تلقائي كل ما يتحدث ملف الـ sitemap
+  push:
+    paths:
+      - "sitemap-images.xml"
+      - "scripts/sitemap_to_json.py"
+    branches:
+      - main
+
+  # تشغيل يدوي من تبويب Actions في GitHub
+  workflow_dispatch:
+
+  # تحديث دوري احتياطي (كل يوم الساعة 03:00 UTC) حتى لو ما تبدلش الـ sitemap
+  schedule:
+    - cron: "0 3 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-images-json:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Generate images.json
+        run: python3 scripts/sitemap_to_json.py sitemap-images.xml images.json
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add images.json
+          if git diff --cached --quiet; then
+            echo "لا يوجد تغيير في images.json"
+          else
+            git commit -m "chore: update images.json from sitemap [automated]"
+            git push
+          fi

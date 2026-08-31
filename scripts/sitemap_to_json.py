@@ -1,4 +1,3 @@
-
 #!/usr/bin/env python3
 """
 يحول ملف sitemap الصور (sitemap-images.xml) إلى images.json
@@ -87,6 +86,11 @@ def build_pin_text(title: str, description: str, hashtags: list[str]) -> str:
     return f"{title}\n\n{description}\n\n{' '.join(hashtags)}"
 
 
+def build_pin_description(description: str, hashtags: list[str]) -> str:
+    """وصف + هاشتاغات فقط، بلا تكرار العنوان (يستعمل في حقل Description بـ Pinterest)."""
+    return f"{description}\n\n{' '.join(hashtags)}"
+
+
 def parse_sitemap(xml_path: Path) -> list[dict]:
     tree = ET.parse(xml_path)
     root = tree.getroot()
@@ -120,6 +124,7 @@ def parse_sitemap(xml_path: Path) -> list[dict]:
             "description": description,
             "hashtags": hashtags,
             "pin_text": build_pin_text(title, description, hashtags),
+            "pin_description": build_pin_description(description, hashtags),
         })
 
     return items

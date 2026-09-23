@@ -1,11 +1,7 @@
 name: Pick next Pinterest batch
 
 on:
-  # جدول زمني: كل 3 ساعات (بدّلها حسب الوتيرة اللي بغيتي)
-  schedule:
-    - cron: "0 */3 * * *"
-
-  # تشغيل يدوي من تبويب Actions
+  # تشغيل يدوي من تبويب Actions أو عبر استدعاء Make (repository dispatch/workflow_dispatch)
   workflow_dispatch:
 
 permissions:

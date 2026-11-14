@@ -2,69 +2,67 @@
   "status": "ok",
   "items": [
     {
-      "id": "21d13ac526f8",
-      "page_url": "https://masterdxf.com/designs/geometric-islamic-octagram-star-lattice-vector-panel-for-cnc",
-      "image_url": "https://masterdxf.com/door%20panel/1x/D63.webp",
-      "title": "Geometric Islamic Octagram Star Lattice Vector Panel for CNC",
-      "description": "An elegant vertical privacy panel featuring a traditional Islamic geometric layout with repeating eight-pointed stars (octagrams) and intersecting polygons. The design offers a balanced and seamless mesh effect, combining architectural heritage with functional security.",
+      "id": "8ed1eb55dff8",
+      "page_url": "https://masterdxf.com/designs/abstract-interlocking-geometric-block-array-panel",
+      "image_url": "https://masterdxf.com/door%20panel/1x/D177.webp",
+      "title": "Abstract Interlocking Geometric Block Array Panel",
+      "description": "A bold modern decorative panel showcasing a synchronized grid of overlapping vertical and horizontal geometric rectangles.",
+      "hashtags": [
+        "#GeometricDesign",
+        "#GeometricArt",
+        "#CNC",
+        "#LaserCutting",
+        "#DXFFile",
+        "#CNCDesign",
+        "#WoodworkingDIY"
+      ],
+      "pin_text": "Abstract Interlocking Geometric Block Array Panel\n\nA bold modern decorative panel showcasing a synchronized grid of overlapping vertical and horizontal geometric rectangles.\n\n#GeometricDesign #GeometricArt #CNC #LaserCutting #DXFFile #CNCDesign #WoodworkingDIY",
+      "pin_description": "A bold modern decorative panel showcasing a synchronized grid of overlapping vertical and horizontal geometric rectangles.\n\n#GeometricDesign #GeometricArt #CNC #LaserCutting #DXFFile #CNCDesign #WoodworkingDIY"
+    },
+    {
+      "id": "bbbd6ec5f215",
+      "page_url": "https://masterdxf.com/designs/pirate-galleon-storm-scene-dxf-cnc-laser-and-plasma-wall-art",
+      "image_url": "https://masterdxf.com/WALL%20PANEL/PNG/PIRATE%20SHIP.webp",
+      "title": "Pirate Galleon Storm Scene DXF | CNC Laser & Plasma Wall Art",
+      "description": "A dramatic full-sail pirate ship cutting through stormy waves — featuring the iconic Jolly Roger flag, billowing sails, and crashing ocean detail. This multi-layer vector is engineered for clean plasma and laser cuts, delivering stunning depth and shadow on metal or wood. Perfect for nautical wall murals, man-cave décor, and statement pieces.",
+      "hashtags": [
+        "#MetalWallArt",
+        "#WallDecor",
+        "#PirateArt",
+        "#NauticalDecor",
+        "#ShipArt",
+        "#PlasmaCutting",
+        "#MetalArt",
+        "#CNC",
+        "#LaserCutting",
+        "#DXFFile",
+        "#CNCDesign",
+        "#WoodworkingDIY"
+      ],
+      "pin_text": "Pirate Galleon Storm Scene DXF | CNC Laser & Plasma Wall Art\n\nA dramatic full-sail pirate ship cutting through stormy waves — featuring the iconic Jolly Roger flag, billowing sails, and crashing ocean detail. This multi-layer vector is engineered for clean plasma and laser cuts, delivering stunning depth and shadow on metal or wood. Perfect for nautical wall murals, man-cave décor, and statement pieces.\n\n#MetalWallArt #WallDecor #PirateArt #NauticalDecor #ShipArt #PlasmaCutting #MetalArt #CNC #LaserCutting #DXFFile #CNCDesign #WoodworkingDIY",
+      "pin_description": "A dramatic full-sail pirate ship cutting through stormy waves — featuring the iconic Jolly Roger flag, billowing sails, and crashing ocean detail. This multi-layer vector is engineered for clean plasma and laser cuts, delivering stunning depth and shadow on metal or wood. Perfect for nautical wall murals, man-cave décor, and statement pieces.\n\n#MetalWallArt #WallDecor #PirateArt #NauticalDecor #ShipArt #PlasmaCutting #MetalArt #CNC #LaserCutting #DXFFile #CNCDesign #WoodworkingDIY"
+    },
+    {
+      "id": "9503792abb93",
+      "page_url": "https://masterdxf.com/designs/traditional-islamic-star-girih-geometric-screen-vector",
+      "image_url": "https://masterdxf.com/door%20panel/1x/D111.webp",
+      "title": "Traditional Islamic Star Girih Geometric Screen Vector",
+      "description": "A mathematically precise vertical partition showcasing classic Moorish interlace lines that form complex eight-pointed star rosettes. The bold interlocking pathways evoke a timeless historical look with a crisp, modern delivery.",
       "hashtags": [
         "#IslamicPattern",
         "#IslamicArt",
         "#GeometricDesign",
         "#GeometricArt",
         "#PrivacyScreen",
-        "#LatticeDesign",
-        "#CNC",
-        "#LaserCutting",
-        "#DXFFile",
-        "#CNCDesign",
-        "#WoodworkingDIY"
-      ],
-      "pin_text": "Geometric Islamic Octagram Star Lattice Vector Panel for CNC\n\nAn elegant vertical privacy panel featuring a traditional Islamic geometric layout with repeating eight-pointed stars (octagrams) and intersecting polygons. The design offers a balanced and seamless mesh effect, combining architectural heritage with functional security.\n\n#IslamicPattern #IslamicArt #GeometricDesign #GeometricArt #PrivacyScreen #LatticeDesign #CNC #LaserCutting #DXFFile #CNCDesign #WoodworkingDIY",
-      "pin_description": "An elegant vertical privacy panel featuring a traditional Islamic geometric layout with repeating eight-pointed stars (octagrams) and intersecting polygons. The design offers a balanced and seamless mesh effect, combining architectural heritage with functional security.\n\n#IslamicPattern #IslamicArt #GeometricDesign #GeometricArt #PrivacyScreen #LatticeDesign #CNC #LaserCutting #DXFFile #CNCDesign #WoodworkingDIY"
-    },
-    {
-      "id": "77be3bac6f46",
-      "page_url": "https://masterdxf.com/designs/fleur-diamond-lattice-dxf-panel-for-refined-vertical-screens",
-      "image_url": "https://masterdxf.com/door%20panel/1x/D291.webp",
-      "title": "Fleur Diamond Lattice DXF Panel for Refined Vertical Screens",
-      "description": "Slender fleur-shaped leaves stack into a tight diamond lattice running in clean vertical columns. The refined, elongated rhythm suits narrow sidelights, stair infill, and screens wanting a tall, elegant repeat.",
-      "hashtags": [
-        "#PrivacyScreen",
-        "#LatticeDesign",
         "#RoomDivider",
-        "#MetalGate",
-        "#GateDesign",
         "#CNC",
         "#LaserCutting",
         "#DXFFile",
         "#CNCDesign",
         "#WoodworkingDIY"
       ],
-      "pin_text": "Fleur Diamond Lattice DXF Panel for Refined Vertical Screens\n\nSlender fleur-shaped leaves stack into a tight diamond lattice running in clean vertical columns. The refined, elongated rhythm suits narrow sidelights, stair infill, and screens wanting a tall, elegant repeat.\n\n#PrivacyScreen #LatticeDesign #RoomDivider #MetalGate #GateDesign #CNC #LaserCutting #DXFFile #CNCDesign #WoodworkingDIY",
-      "pin_description": "Slender fleur-shaped leaves stack into a tight diamond lattice running in clean vertical columns. The refined, elongated rhythm suits narrow sidelights, stair infill, and screens wanting a tall, elegant repeat.\n\n#PrivacyScreen #LatticeDesign #RoomDivider #MetalGate #GateDesign #CNC #LaserCutting #DXFFile #CNCDesign #WoodworkingDIY"
-    },
-    {
-      "id": "01a9c51e16d5",
-      "page_url": "https://masterdxf.com/designs/luxury-royal-mandala-medallion-high-privacy-gate-design",
-      "image_url": "https://masterdxf.com/door%20panel/1x/D112.webp",
-      "title": "Luxury Royal Mandala Medallion High-Privacy Gate Design",
-      "description": "An exquisite luxury gate pattern displaying a central detailed mandala medallion over a solid black field. Accentuated by ornate corner crests, secondary diamond scrolls, and a fine detailed lace border, this panel delivers premium security and style.",
-      "hashtags": [
-        "#MandalaArt",
-        "#MandalaDesign",
-        "#MetalGate",
-        "#GateDesign",
-        "#LionArt",
-        "#WildlifeArt",
-        "#CNC",
-        "#LaserCutting",
-        "#DXFFile",
-        "#CNCDesign",
-        "#WoodworkingDIY"
-      ],
-      "pin_text": "Luxury Royal Mandala Medallion High-Privacy Gate Design\n\nAn exquisite luxury gate pattern displaying a central detailed mandala medallion over a solid black field. Accentuated by ornate corner crests, secondary diamond scrolls, and a fine detailed lace border, this panel delivers premium security and style.\n\n#MandalaArt #MandalaDesign #MetalGate #GateDesign #LionArt #WildlifeArt #CNC #LaserCutting #DXFFile #CNCDesign #WoodworkingDIY",
-      "pin_description": "An exquisite luxury gate pattern displaying a central detailed mandala medallion over a solid black field. Accentuated by ornate corner crests, secondary diamond scrolls, and a fine detailed lace border, this panel delivers premium security and style.\n\n#MandalaArt #MandalaDesign #MetalGate #GateDesign #LionArt #WildlifeArt #CNC #LaserCutting #DXFFile #CNCDesign #WoodworkingDIY"
+      "pin_text": "Traditional Islamic Star Girih Geometric Screen Vector\n\nA mathematically precise vertical partition showcasing classic Moorish interlace lines that form complex eight-pointed star rosettes. The bold interlocking pathways evoke a timeless historical look with a crisp, modern delivery.\n\n#IslamicPattern #IslamicArt #GeometricDesign #GeometricArt #PrivacyScreen #RoomDivider #CNC #LaserCutting #DXFFile #CNCDesign #WoodworkingDIY",
+      "pin_description": "A mathematically precise vertical partition showcasing classic Moorish interlace lines that form complex eight-pointed star rosettes. The bold interlocking pathways evoke a timeless historical look with a crisp, modern delivery.\n\n#IslamicPattern #IslamicArt #GeometricDesign #GeometricArt #PrivacyScreen #RoomDivider #CNC #LaserCutting #DXFFile #CNCDesign #WoodworkingDIY"
     }
   ]
 }
